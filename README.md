@@ -4,7 +4,7 @@ Memory Match Game
 A full-stack memory card matching game built with the MERN stack (MongoDB, Express, React, Node.js). Test your memory by finding matching pairs of cards, compete for high scores on the leaderboard, and track your progress with user profiles.
 
 🔗 Live Demo
-Play Memory Match Challenge
+[Play Memory Match Challenge](https://memory-match-game-mern.vercel.app/)
 
 Backend API: https://memory-match-game-backend.onrender.com
 
