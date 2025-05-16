@@ -15,7 +15,7 @@ const Footer = () => {
           </div>
           <div className="flex space-x-6">
             <a
-              href="https://github.com"
+              href="https://github.com/Vikashhh18/memory-match-game-mern"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-purple-600"
