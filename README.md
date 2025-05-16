@@ -56,16 +56,4 @@ cd frontend
 npm install
 
 # Create .env file (see Environment Variables section)
-# Then start the development server
-npm start
-🔐 Environment Variables
-Backend (.env)
-NODE_ENV=development
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-JWT_EXPIRE=30d
-JWT_COOKIE_EXPIRE=30
-FRONTEND_URL=http://localhost:3000
-Frontend (.env)
-REACT_APP_API_URL=http://localhost:5000
+
